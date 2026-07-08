@@ -1,4 +1,4 @@
 # Rotation
-Rotates Cube.  "R" to switch shapes.
+Rotate shapes using WASD.  "R" to switch shapes.
 
 You must install ursina first in your window prompt: pip install ursina
